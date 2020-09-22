@@ -1,0 +1,127 @@
+header {
+	background-color: #ababab;
+}
+main {
+	
+}
+footer {
+	background-color: #ababab;
+}
+
+
+.start {
+	display: flex;	
+}
+.firstpart {
+	margin-left: 30%;
+	border: 1px solid black;
+}
+.secondpart {
+	margin-left: 20%;
+	border: 1px solid black;
+}
+.sections {
+	display: flex;
+	border: 2px solid black;
+}
+.section1 {
+	margin-left: 20%;
+}
+.section2 {
+	margin-left: 15%;
+}
+.section3 {
+	margin-left: 18%;
+}
+.section4 {
+	margin-left: 26%;
+}
+.talking {
+	display: flex;
+}
+.metalking {
+	margin-left: 50px;
+	line-height: 200%;
+	font-size: 150%;
+}
+.metalking2 {
+	margin-left: 50px;
+	line-height: 200%;
+	font-size: 130%;
+}
+.links {
+	width: 1000px;
+	height: 850px;
+	border: 1px solid black;
+}
+.instagram {
+	margin-left: 50px;
+}
+.telegram {
+	margin-left: 50px;
+	margin-top: 200px;
+}
+.facebook {
+	margin-left: 50px;
+	margin-top: 200px;
+}
+.discord {
+	margin-left: 50px;
+	margin-top: 200px;
+}
+.firstrow {
+	display: flex;
+}
+.secondrow {
+	display: flex;
+}
+.starwars {
+	height: 500px;
+}
+.starwars:hover {
+	height: 530px;
+}
+.duplicate {
+	height: 500px;
+}
+.duplicate:hover {
+	height: 530px;
+}
+.admiral {
+	height: 500px;
+	margin-top: 50px;
+}
+.admiral:hover {
+	height: 530px;
+}
+.andrewnoire {
+	height: 500px;
+	margin-left: 67px;
+	margin-top: 50px;
+}	
+.andrewnoire:hover {
+	height: 530px;
+}
+.obump {
+	height: 500px;
+	margin-left: 67px;
+	margin-top: 50px;
+}
+.obump:hover {
+	height: 530px;
+}
+.paralel {
+	display: flex;
+}
+.textcolored {
+	margin-left: 500px;
+	line-height: 250%;
+	color: purple;
+}
+.text {
+	margin-left: 500px;
+	line-height: 250%;
+}
+.blackandwhite {
+	
+}
